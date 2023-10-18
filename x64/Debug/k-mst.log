@@ -1,0 +1,15 @@
+﻿  main.cpp
+d:\pcl1.9.1\include\pcl-1.9\pcl\point_traits.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+g:\code\new\20230801\k-mst\k-mst\main.cpp(55): error C2371: “EdgeType”: 重定义；不同的基类型
+  g:\code\new\20230801\k-mst\k-mst\emst.h(20): note: 参见“EdgeType”的声明
+g:\code\new\20230801\k-mst\k-mst\main.cpp(227): error C2065: “g”: 未声明的标识符
+g:\code\new\20230801\k-mst\k-mst\main.cpp(229): error C2065: “g”: 未声明的标识符
+g:\code\new\20230801\k-mst\k-mst\main.cpp(255): error C2065: “g”: 未声明的标识符
+g:\code\new\20230801\k-mst\k-mst\main.cpp(282): error C2065: “g”: 未声明的标识符
+g:\code\new\20230801\k-mst\k-mst\main.cpp(345): error C2065: “g”: 未声明的标识符
+g:\code\new\20230801\k-mst\k-mst\main.cpp(345): error C2065: “Orderitreator”: 未声明的标识符
+g:\code\new\20230801\k-mst\k-mst\main.cpp(374): error C2086: “int num_txt”: 重定义
+  g:\code\new\20230801\k-mst\k-mst\main.cpp(357): note: 参见“num_txt”的声明
+g:\code\new\20230801\k-mst\k-mst\main.cpp(378): error C2065: “txtname”: 未声明的标识符
+g:\code\new\20230801\k-mst\k-mst\main.cpp(412): error C2065: “txtname”: 未声明的标识符
+g:\code\new\20230801\k-mst\k-mst\main.cpp(197): fatal error C1075: “{”: 未找到匹配令牌
